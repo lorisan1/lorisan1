@@ -1,4 +1,4 @@
-# ¡Hola! Soy Lorena 👋
+# ¡Hola!  👋
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=120&section=header&text=Frontend%20Developer&fontSize=40&fontColor=ffffff&animation=twinkling" alt="Header"/>
